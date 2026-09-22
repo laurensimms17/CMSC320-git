@@ -10,3 +10,6 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging adds a new merge commit that preserves the entire history in chronological order, whereas rebase rewrites the commit history to create linear project history 
 
+Q4: What are you looking forward to this semester?
+
+Answer: Spending time with my friends and making the most of my last year in college 
