@@ -5,3 +5,8 @@ Answer: Git is an easy way to upload individual work to a collaborative environm
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: All fields can benefit from data science since every field can use data analysis 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging adds a new merge commit that preserves the entire history in chronological order, whereas rebase rewrites the commit history to create linear project history 
+
