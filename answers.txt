@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: All fields can benefit from data science since every field can use data analysis 
